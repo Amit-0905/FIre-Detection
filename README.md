@@ -1,4 +1,4 @@
 # Real-Time Fire Detection And Monitoring System
 
 
-project *th Sem
+project 8th Sem
